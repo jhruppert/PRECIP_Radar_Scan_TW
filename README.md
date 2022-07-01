@@ -2,7 +2,7 @@
 
 This project visualizes the radar scanning strategy in the [PRECIP 2022](http://precip.org/) campaign for field oprators.
 
-For standard usage, the [notebook(update link)](https://github.com/yuhungjui/PRECIP_Radar_Scan_TW/blob/main/PRECIP_radar_scans_userdef.ipynb) pulls the latest radar image from CWB (https://www.cwb.gov.tw/V8/C/W/OBS_Radar.html), and plots the ranges and azimuths of the specified radar scans.
+For standard usage, the [notebook](https://github.com/jhruppert/PRECIP_Radar_Scan_TW/blob/main/PRECIP_radar_scans_userdef.ipynb) pulls the latest radar image from CWB (https://www.cwb.gov.tw/V8/C/W/OBS_Radar.html), and plots the ranges and azimuths of the specified radar scans.
 
 ## How to run?
 1. Choose the radars (S-Pol at Hsin-Chu or SEA-POL at Yonaguni, or both)
@@ -20,5 +20,5 @@ Last update - 20220701 - James Ruppert
 
 ## Example Figure:
 
-![Example Figure(this link should be updated to example.png in this directory)](https://github.com/yuhungjui/PRECIP_Radar_Scan_TW/blob/main/example.png)
+![Example Figure](https://github.com/jhruppert/PRECIP_Radar_Scan_TW/blob/main/example.png)
 
